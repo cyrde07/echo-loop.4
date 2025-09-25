@@ -1,0 +1,4 @@
+repository "卡牌学习/卡牌学习正式版@6872744748511@cloud"
+  path "/"
+    br "/main"
+    co "/main"
